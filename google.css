@@ -1,0 +1,279 @@
+#main
+{
+    height: 60px;
+    width: auto;
+    background-color: green;
+    display: flex;
+ 
+}
+#ancer
+{
+    margin-left: 500px;
+    margin-top: 20px;
+    color: white;
+    font-size: larger;
+    
+}
+a{
+    margin-left: 40px;
+    margin-top: 8px;
+    margin-top: 10px;
+    padding: 10px;
+    
+    
+}
+a:hover{
+    color:green;
+    background-color: white;
+}
+a1
+{
+    margin-left: 100px;
+    margin-top: 20px;
+    color: white;
+font-size: larger;
+
+}
+#Dream
+{
+    height: 200px;
+    width: 300px;
+    margin-left: 850px;
+   position: relative;
+   bottom: 670px;
+}
+p{
+    margin-left: 850px;
+    position: relative;
+    bottom: 670px;
+}
+button
+{
+    margin-left: 930px;
+    position: relative;
+    bottom: 670px;
+    background-color:black;
+    padding: 10px;
+    color: white;
+    border-radius: 40px;
+}
+#solid
+{
+    height: 250px;
+    width: 300px;
+    margin-left: 850px;
+   position: relative;
+   bottom: 670px;
+}
+
+
+#frt
+{
+    margin-left: 140px;
+    position: relative;
+
+    top: 70px;
+}
+#abc
+{
+    margin-top: 200px;
+    margin-left: 700px;
+    position: relative;
+    bottom: 215px;
+    font-size: xx-large;
+}
+h5{
+    margin-top:200px ;
+    position: relative;
+    right: 400px;
+}
+#para
+{
+    position: relative;
+    bottom: 600px;
+}
+#point
+{
+    margin-left: 30px;
+}
+h2{
+    position: relative;
+    bottom: 590px;
+    margin-left: 30px;
+}
+hr{
+    position: relative;
+    bottom: 590px;
+   margin-right: 40%;
+    background-color:green;
+   height: 2px;
+}
+#find
+{
+    position: relative;
+    bottom: 590px;
+    font-size: larger;
+    margin-top: 30px;
+}
+#image2
+{
+    position: relative;
+    bottom: 590px;
+}
+#pam
+{
+    height: 400px;
+    width: 470px;
+}
+#menu
+{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+h3{
+    position: relative;
+    bottom: 590px;
+    margin-left: 30px;
+  
+}
+#last
+{
+    position: relative;
+    bottom: 570px;
+    font-size: large;
+}
+#reone
+{
+    height: 300px;
+    width: 300px;
+}
+#pic1
+{
+    position: relative;
+    bottom: 530px;
+    border: 10px green;
+
+}
+#retwo
+{
+    height: 300px;
+    width: 300px;
+   
+}
+#pic2
+{
+    position: relative;
+    bottom: 850px;
+    margin-left: 370px;  
+}
+#rethree
+{
+    height: 300px;
+    width: 300px;
+   
+}
+#pic3
+{
+    position: relative;
+    bottom: 850px;
+    margin-left: 370px;  
+}
+#pic4
+{
+    position: relative;
+    bottom: 1170px;
+   
+}
+#refour
+{
+    height: 300px;
+    width: 300px;
+   
+}
+#left
+{
+    position: relative;
+    /* bottom: 1000px; */
+}
+#fleft
+{
+    margin-left: 250px;
+  padding-top: 40px;
+    /* position: relative; */
+    /* bottom: 1000px; */
+}
+#fright
+{
+    margin-left:700px;
+   
+
+     position: relative; 
+     bottom: 100px;  
+}
+#facebook
+{
+    margin-left:700px;
+    position: relative;
+     bottom: 100px;  
+}
+#pic
+{
+    height: 50px;
+    width: 50px;
+}
+#sta
+{
+    height: 50px;
+    width: 50px; 
+    position: relative; 
+    bottom: 80px;
+    
+}
+#insta
+{
+    margin-left:780px;
+     position: relative; 
+     bottom: 70px;  
+}
+#copy
+{
+    margin-left:370px;
+    position: relative;
+    /* bottom: 1060px; */
+}
+#com
+{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+#fh
+{
+    position: relative;
+    /* bottom: 1050px; */
+    margin-right: 900px;
+}
+#grap
+{
+    position: relative;
+    /* bottom: 1030px;   */
+}
+
+
+div#picture{
+    width: 200px;
+    height: 1300px;
+}
+footer{
+    width: 100%;
+    margin-top: 400px;
+    background-color:green;
+    position: relative;
+     bottom: 1480px; 
+}
+
+
+
+    
+
+
+
